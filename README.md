@@ -11,11 +11,12 @@ The LSTM model was trained and evaluated on the provided dataset, showcasing pro
 - Training MAE: 0.5093
 - Validation Loss: 0.1604
 - Validation MAE: 0.4383
-- 
+
 **Final Evaluation**
   
 The final Mean Absolute Error (MAE) was compared against a predefined threshold. The result indicates:
 - The final MAE (0.5093) is less than 10% of the data scale.
+
 These results suggest that the LSTM model has successfully learned patterns in the time series data and provides reliable predictions for electric power consumption.
 
 ### Credits
